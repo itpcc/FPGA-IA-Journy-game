@@ -5,4 +5,5 @@
 # RS Thailand
   - IR Photodiode *5 http://th.rs-online.com/web/p/photodiodes/9128564/  12.87 บาท * 5 = 64.35 บาท (ดูเพิ่มที่ http://th.rs-online.com/web/c/displays-optoelectronics/optocouplers-photodetectors-photointerrupters/photodiodes/#sort-by=P_breakPrice1&sort-order=asc)
   
-  
+# Overall
+12.93 + 28.90 + 64.35 = 106.18
