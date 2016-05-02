@@ -1,6 +1,7 @@
 # FPGA "IA Journy" game
 
 Verilog code for very simple gun(music note)-shooting game by button and VGA screen.
+
 This programs is for CPE223 Digital system design, KMUTT.
 
 ## Project member
@@ -9,7 +10,6 @@ This programs is for CPE223 Digital system design, KMUTT.
 2. Mr. Suttiwat Songboonkaew 57070501079
 
 [CPE KMUTT](http://cpe.kmutt.ac.th)
-
 
 ## Screenshot
 
@@ -29,6 +29,8 @@ Uploading
 9. Enjoy!
 
 ## image2verilog-*.py
+
+![Example using those script: left--Scrpit console, middle--module code result, top right--original image, bottom right--expected output image](https://raw.githubusercontent.com/itpcc/FPGA-IA-Journy-game/master/image2verilog-example.png)
 
 Those `image2verilog-[type].py`	are Python 2.7 script for generating 3-bits RGB image drawing module. (Maybe) easy to use!
 
