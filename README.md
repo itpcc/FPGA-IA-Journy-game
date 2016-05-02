@@ -1,9 +1,11 @@
 # FPGA "IA Journy" game
-![Preview Screenshot](https://raw.githubusercontent.com/itpcc/FPGA-IA-Journy-game/master/V_Full.gif)
+[![Preview Screenshot](https://raw.githubusercontent.com/itpcc/FPGA-IA-Journy-game/master/V_Full.gif)](https://www.youtube.com/watch?v=7jXSADHg5FA)
 
 Verilog code for very simple gun(music note)-shooting game by button and VGA screen.
 
 This programs is for CPE223 Digital system design, KMUTT.
+
+[Youtube demo video](https://www.youtube.com/watch?v=7jXSADHg5FA)
 
 ## Project member
 
