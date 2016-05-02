@@ -1,7 +1,15 @@
 # FPGA "IA Journy" game
 
-Verilog code for very simple gun(music note)-shooting game by button and VGA screen
+Verilog code for very simple gun(music note)-shooting game by button and VGA screen.
 This programs is for CPE223 Digital system design, KMUTT.
+
+## Project member
+
+1. Mr. Rachasak Ragkamnerd 57070501075
+2. Mr. Suttiwat Songboonkaew 57070501079
+
+[CPE KMUTT](http://cpe.kmutt.ac.th)
+
 
 ## Screenshot
 
