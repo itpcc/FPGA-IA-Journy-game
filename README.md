@@ -33,7 +33,7 @@ Those `image2verilog-[type].py`	are Python 2.7 script for generating 3-bits RGB 
 
 ### 5 step to use
 
-1. run `py image2verilog-[type].py` (`color` -- color and separate command in each pixel, `bw` -- black white and group same color, colorgroup -- same as `bw` but 3-bits RGB)
+1. run `py image2verilog-[type].py` (`color` -- color and separate command in each pixel, `bw` -- black white and group same color, colorgroup -- same as `bw` but 3-bits RGB) (Don't forget to install Python 2.7, PILlow, and tkFileDialog first!)
 2. Choose input image (Typical image format which supported by Python PIL)
 3. Name output filename. (You can use `{w}` for image width and `{h}` for image height.)
 4. Name output module name.
