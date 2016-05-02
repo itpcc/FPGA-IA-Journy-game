@@ -30,7 +30,7 @@ Uploading
 
 ## image2verilog-*.py
 
-![Example using those script: left--Scrpit console, middle--module code result, top right--original image, bottom right--expected output image](https://raw.githubusercontent.com/itpcc/FPGA-IA-Journy-game/master/image2verilog-example.png)
+![Example using those script: left--Scrpit console, middle--module code result, top right--original image, bottom right--expected output image](https://raw.githubusercontent.com/itpcc/FPGA-IA-Journy-game/master/image2verilog-example.png "Example screenshot using those script")
 
 Those `image2verilog-[type].py`	are Python 2.7 script for generating 3-bits RGB image drawing module. (Maybe) easy to use!
 
