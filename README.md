@@ -33,6 +33,8 @@ This programs is for CPE223 Digital system design, KMUTT.
 
 Those `image2verilog-[type].py`	are Python 2.7 script for generating 3-bits RGB image drawing module. (Maybe) easy to use!
 
+[Read how-it-work blog article here! (in Thai)](https://www.itpcc.net/tip-and-technic/python/python-get-pixel-color-from-image-by-pillow/)
+
 ### 5 step to use
 
 1. run `py image2verilog-[type].py` (`color` -- color and separate command in each pixel, `bw` -- black white and group same color, colorgroup -- same as `bw` but 3-bits RGB) (Don't forget to install Python 2.7, PILlow, and tkFileDialog first!)
